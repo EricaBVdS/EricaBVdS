@@ -44,7 +44,7 @@
 <!-- Portfolio -->
 ## Portfolio:
 - [Desafio Pokedex](https://github.com/EricaBVdS/Desafio-Pokedex)
-- [Projeto Gerador de Ticket](https://github.com/EricaBVdS/Projeto-Gerador-de-Ticket-)
+- [Projeto Jogo da Memória](https://github.com/EricaBVdS/Jogo-da-Memoria)
 - [Github finder](https://github.com/EricaBVdS/github-finder)
 - [Portifolio - Github Pages ](https://github.com/EricaBVdS/js-developer-portfolio)
 
