@@ -43,7 +43,7 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-- [Desafio Pokedex](https://github.com/EricaBVdS/Desafio-Pokedex)
+- [Projeto TO DO LIST](https://github.com/EricaBVdS/Criando-uma-To-Do-List)
 - [Projeto Jogo da Memória](https://github.com/EricaBVdS/Jogo-da-Memoria)
 - [Github finder](https://github.com/EricaBVdS/github-finder)
 - [Portifolio - Github Pages ](https://github.com/EricaBVdS/js-developer-portfolio)
